@@ -1,0 +1,125 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="curtin.edu.a19819211_assignment_2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_CONTACTS" />
+11-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:5:5-72
+11-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:5:22-69
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:6:5-67
+12-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:7:5-80
+13-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:7:22-77
+14
+15    <application
+15-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:9:5-60:19
+16        android:allowBackup="true"
+16-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+17-->[com.android.support:support-compat:28.0.0] C:\Users\zark_muckerberg\.gradle\caches\transforms-3\d538d5a1968642e8fbde64390b8e4a29\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:icon="@mipmap/ic_launcher"
+20-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:11:9-43
+21        android:label="@string/app_name"
+21-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:12:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:13:9-54
+23        android:supportsRtl="true"
+23-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.19819211_Assignment_2" >
+25-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:15:9-59
+26        <activity
+26-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:17:9-19:40
+27            android:name="curtin.edu.math_test.activities.EditStudentInfo"
+27-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:18:13-55
+28            android:exported="false" />
+28-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:19:13-37
+29        <activity
+29-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:20:9-23:40
+30            android:name="curtin.edu.math_test.activities.ViewTestResults"
+30-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:21:13-55
+31            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+31-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:22:13-106
+32            android:exported="false" />
+32-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:23:13-37
+33        <activity
+33-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:24:9-27:39
+34            android:name="curtin.edu.math_test.activities.TestActivity"
+34-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:25:13-52
+35            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+35-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:26:13-106
+36            android:exported="true" />
+36-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:27:13-36
+37        <activity
+37-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:28:9-31:39
+38            android:name="curtin.edu.math_test.activities.ViewStudentsActivity"
+38-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:29:13-60
+39            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+39-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:30:13-106
+40            android:exported="true" />
+40-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:31:13-36
+41        <activity
+41-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:32:9-35:39
+42            android:name="curtin.edu.math_test.activities.BrowsePhotosOnline"
+42-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:33:13-58
+43            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+43-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:34:13-106
+44            android:exported="true" />
+44-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:35:13-36
+45        <activity
+45-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:36:9-38:39
+46            android:name="curtin.edu.math_test.activities.RegisterStudent"
+46-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:37:13-55
+47            android:exported="true" />
+47-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:38:13-36
+48        <activity
+48-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:39:9-48:20
+49            android:name="curtin.edu.math_test.activities.MainActivity"
+49-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:40:13-52
+50            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+50-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:41:13-106
+51            android:exported="true" >
+51-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:42:13-36
+52            <intent-filter>
+52-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:43:13-47:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:44:17-69
+53-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:44:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:46:17-77
+55-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:46:27-74
+56            </intent-filter>
+57        </activity>
+58
+59        <!-- Allow other apps to access this app's files -->
+60        <provider
+61            android:name="android.support.v4.content.FileProvider"
+61-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:52:13-67
+62            android:authorities="curtin.edu.a19819211_assignment_2.fileprovider"
+62-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:53:13-64
+63            android:exported="false"
+63-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:54:13-37
+64            android:grantUriPermissions="true" >
+64-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:55:13-47
+65            <meta-data
+65-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:56:13-58:49
+66                android:name="android.support.FILE_PROVIDER_PATHS"
+66-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:57:17-67
+67                android:resource="@xml/files" />
+67-->D:\1 - Software Projects\Android_Studio\19819211_Assignment_2\app\src\main\AndroidManifest.xml:58:17-46
+68        </provider>
+69    </application>
+70
+71</manifest>

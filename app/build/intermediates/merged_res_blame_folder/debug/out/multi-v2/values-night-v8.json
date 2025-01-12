@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\1 - Software Projects\\Android_Studio\\19819211_Assignment_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\1 - Software Projects\\Android_Studio\\19819211_Assignment_2\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "460"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "415"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zark_muckerberg\\.gradle\\caches\\transforms-3\\ec36073ee711044c923a492788972c74\\transformed\\appcompat-v7-28.0.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "420,490,574,658,754,856,958",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "485,569,653,749,851,953,1047"
+                    }
+                }
+            ]
+        }
+    ]
+}
