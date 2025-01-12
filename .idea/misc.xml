@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/drawable/blue_button.xml" value="0.2305921052631579" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/drawable/circular.xml" value="0.2305921052631579" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/drawable/circular_progress_bar.xml" value="0.2305921052631579" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2305921052631579" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/drawable/layout_border.xml" value="0.2305921052631579" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout-land/activity_edit_student_info.xml" value="0.2242302543507363" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout-land/activity_register_student.xml" value="0.2" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout-large-land/activity_edit_student_info.xml" value="0.21069182389937108" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout-large-land/activity_register_student.xml" value="0.25" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout-large-port/activity_edit_student_info.xml" value="0.25" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout-large-port/activity_register_student.xml" value="0.33" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout-large/options_four_button.xml" value="0.24006410256410257" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout-large/options_three_button.xml" value="0.24006410256410257" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout-large/options_two_button.xml" value="0.24006410256410257" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout-normal-land/activity_register_student.xml" value="0.29541446208112876" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout-sw600dp/activity_register_student.xml" value="0.33" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout-w1536dp-h2048dp-land/activity_register_student.xml" value="0.29541446208112876" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout-xlarge-land/activity_register_student.xml" value="0.21069182389937108" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/activity_browse_photos_online.xml" value="0.25" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/activity_edit_student_info.xml" value="0.22039473684210525" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/activity_main.xml" value="0.24375" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/activity_register_student.xml" value="0.2" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/activity_test.xml" value="0.25" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/activity_view_students.xml" value="0.25" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/activity_view_test_results.xml" value="0.25" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/fragment_display_photos.xml" value="0.176" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/list_images.xml" value="0.25" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/list_students.xml" value="0.25" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/list_tests.xml" value="0.22039473684210525" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/options_four_button.xml" value="0.22039473684210525" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/options_three_button.xml" value="0.22039473684210525" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/layout/options_two_button.xml" value="0.22039473684210525" />
+        <entry key="..\:/Programming/Mobile_Development/Android_Studio/19819211_Assignment_2/app/src/main/res/menu/sort_menu.xml" value="0.22039473684210525" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
